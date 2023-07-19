@@ -1,2 +1,2 @@
-# unity game jam 2022
+# Shaders Pratice
 temporary test here
